@@ -1,5 +1,6 @@
 # Project Title
 
+Andrew's coolest project! Wow!<br />
 One paragraph of project description goes here.<br />
 Briefly address the 5 W's. <br />
 What is the project?<br />
